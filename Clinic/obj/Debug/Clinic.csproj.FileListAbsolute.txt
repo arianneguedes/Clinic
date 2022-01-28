@@ -1,0 +1,70 @@
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.cache
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.frmMain.resources
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.csproj.AssemblyReference.cache
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.frmMain.resources
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.cache
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.csproj.CoreCompileInputs.cache
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.exe
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.pdb
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\bin\Debug\Clinic.mdf
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\bin\Debug\Clinic_log.ldf
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\bin\Debug\Clinic.exe.config
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\bin\Debug\Clinic.exe
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.frmRooms.resources
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.frmSchedule.resources
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.frmSchedule.resources
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.frmRooms.resources
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\bin\Debug\Clinic.mdf
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\bin\Debug\Clinic_log.ldf
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\bin\Debug\Clinic.mdf
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\bin\Debug\Clinic_log.ldf
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.csproj.AssemblyReference.cache
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.frmSchedule.resources
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.frmMain.resources
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.frmRooms.resources
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.cache
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.csproj.CoreCompileInputs.cache
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.frmDoctors.resources
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.frmDoctors.resources
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.frmUsers.resources
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\bin\Debug\Clinic.mdf
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\bin\Debug\Clinic_log.ldf
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.csprojAssemblyReference.cache
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.frmDoctors.resources
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.frmSchedule.resources
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.frmMain.resources
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.frmPatients.resources
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.frmRooms.resources
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.frmUsers.resources
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.cache
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Richard Wayte\Documents\GitHub\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.frmPatients.resources
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.frmDoctors.resources
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.frmPatients.resources
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.frmUsers.resources
+D:\Software Development\SODV2201 Web Programming\Group Project\Clinic\Clinic\obj\Debug\Clinic.frmLogin.resources
+C:\Users\jorge\OneDrive - Bow Valley College\3 - Fall\Rapid\Final\Clinic\Clinic\Clinic\obj\Debug\Clinic.frmLogin.resources
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.frmLogin.resources
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.frmPatients.resources
+C:\Users\arian\OneDrive\Área de Trabalho\Bow Valley College\Term 3\SODV2101 - Rapid Application Development\Project\Clinic\Clinic\obj\Debug\Clinic.frmUsers.resources
